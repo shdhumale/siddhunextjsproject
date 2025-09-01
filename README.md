@@ -69,6 +69,8 @@ Open a pull request.
 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+<img width="1715" height="893" alt="image" src="https://github.com/user-attachments/assets/25277714-d0b4-49c5-8709-d69c7a8bac3c" />
+
 
 🙏 Acknowledgments
 Thanks to the Next.js team for creating such an amazing framework.
